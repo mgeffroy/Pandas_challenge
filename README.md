@@ -1,5 +1,5 @@
 # Pandas_challenge
-#Heroes of Pymoli 
+# Heroes of Pymoli 
 ## Information: 
 Pandas Homework for the Data Analysis Bootcamp: Pandas, Pandas, Pandas!
 This repository contains the code for the analysis of one different CSV files called ***Heroes of Pymoli***. 
